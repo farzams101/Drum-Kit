@@ -1,1 +1,1 @@
-Fun  Drum Kit for your computer using HTML, CSS, JavaScript.
+Fun  Drum Kit created using HTML, CSS, JavaScript.
